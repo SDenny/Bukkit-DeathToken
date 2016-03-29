@@ -1,0 +1,4 @@
+main: com.minecraftport.deathToken.main
+name: DeathToken
+version: 0.16
+description: If you have 10 emeralds in your inventory when you die, you keep your items.
